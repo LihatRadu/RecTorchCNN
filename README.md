@@ -8,6 +8,6 @@ Pentru  a crea mediu virtual se scrie urmatoare line in terminal in directorul p
 
 Pentru a activa mediul virtual dupa ce sa creat se scrie urmatoarea linie: `. /Scritps/activate`
 
-Sa se installeze urmatoarele librarii: ```pip install customtkinter torch torchvision numpy matplotlib os pandas opencv-python seaborn sklearn  torchviz```
+Sa se installeze urmatoarele librarii: ```pip install customtkinter torch torchvision numpy matplotlib os pandas opencv-python seaborn sklearn scikit scikit-image  torchviz```
 
 Programul se ruleaza utilizand comanda ```python main.py```
